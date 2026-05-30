@@ -93,9 +93,13 @@ const dineshPrabu = {
 ## 🚀 What I Do
 
 -💻 Build responsive web applications
+<br>
 -⚛️ Develop modern React.js interfaces
+<br>
 -🎨 Create user-friendly UI/UX experiences
+<br>
 -🔗 Integrate REST APIs
+<br>
 -🌱 Currently learning Node.js & Express.js
 </div>
 
