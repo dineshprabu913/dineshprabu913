@@ -89,11 +89,21 @@ const dineshPrabu = {
 
 <div align="center">
 
+<div>
+## 🚀 What I Do
+
+- 💻 Build responsive web applications
+- ⚛️ Develop modern React.js interfaces
+- 🎨 Create user-friendly UI/UX experiences
+- 🔗 Integrate REST APIs
+- 🌱 Currently learning Node.js & Express.js
+</div>
+
 <a href="https://github.com/dineshprabu913">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dineshprabu913&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400"/>
 </a>
 <a href="https://github.com/dineshprabu913">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshprabu913&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,vscode,nodejs,express,mongodb" />
 </a>
 
 </div>
