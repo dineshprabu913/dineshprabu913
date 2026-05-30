@@ -11,14 +11,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dineshprabu913&color=70a5fd&style=for-the-badge&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/dineshprabu913?style=for-the-badge&color=bf91f3&labelColor=0d1117&logo=github)](https://github.com/dineshprabu913?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/dineshprabu913?style=for-the-badge&color=38bdae&labelColor=0d1117&logo=github)](https://github.com/dineshprabu913)
-
 </div>
 
 ---
-
-<div align="center">
+<br>
   <img width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-</div>
 
 ## 🧑‍💻 About Me
 
