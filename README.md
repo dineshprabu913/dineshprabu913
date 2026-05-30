@@ -44,7 +44,7 @@ const dineshPrabu = {
 
 <br clear="right"/>
 
-<div align="center">
+<div align="center" margin-top="100px">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshprabu913&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
