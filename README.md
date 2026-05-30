@@ -92,19 +92,17 @@ const dineshPrabu = {
 <div>
 ## 🚀 What I Do
 
-- 💻 Build responsive web applications
-- ⚛️ Develop modern React.js interfaces
-- 🎨 Create user-friendly UI/UX experiences
-- 🔗 Integrate REST APIs
-- 🌱 Currently learning Node.js & Express.js
+💻 Build responsive web applications
+⚛️ Develop modern React.js interfaces
+🎨 Create user-friendly UI/UX experiences
+🔗 Integrate REST APIs
+🌱 Currently learning Node.js & Express.js
 </div>
 
 <a href="https://github.com/dineshprabu913">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400"/>
 </a>
-<a href="https://github.com/dineshprabu913">
- <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,vscode,nodejs,express,mongodb" />
-</a>
+
 
 </div>
 
@@ -122,12 +120,10 @@ const dineshPrabu = {
 
 ### 🐍 Contribution Snake
 
+### 🐍 Contribution Snake
+
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dineshprabu913/dineshprabu913/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dineshprabu913/dineshprabu913/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dineshprabu913/dineshprabu913/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+  <img src="https://raw.githubusercontent.com/dineshprabu913/dineshprabu913/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%">
 </div>
 
 <details>
