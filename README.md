@@ -92,11 +92,11 @@ const dineshPrabu = {
 <div>
 ## 🚀 What I Do
 
-💻 Build responsive web applications
-⚛️ Develop modern React.js interfaces
-🎨 Create user-friendly UI/UX experiences
-🔗 Integrate REST APIs
-🌱 Currently learning Node.js & Express.js
+-💻 Build responsive web applications
+-⚛️ Develop modern React.js interfaces
+-🎨 Create user-friendly UI/UX experiences
+-🔗 Integrate REST APIs
+-🌱 Currently learning Node.js & Express.js
 </div>
 
 <a href="https://github.com/dineshprabu913">
@@ -118,45 +118,6 @@ const dineshPrabu = {
 
 </div>
 
-### 🐍 Contribution Snake
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dineshprabu913/dineshprabu913/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%">
-</div>
-
-<details>
-<summary>⚙️ Click to enable Snake Animation (GitHub Actions setup)</summary>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: dineshprabu913
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
 
 ## 🚀 Featured Projects
 
