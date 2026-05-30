@@ -14,7 +14,7 @@
 </div>
 
 ---
-<br>
+
   <img width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## 🧑‍💻 About Me
